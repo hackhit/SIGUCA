@@ -16,7 +16,7 @@
     "hanson": "1.1.1",
     "jade": "1.11.0",
     "moment": "*",
-    "mongoose": "5.12.3",
+    "mongoose": "5.13.20",
     "multer": "^1.2.0",
     "nodemailer": "6.4.16",
     "passport": "0.3.2",
